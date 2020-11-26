@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "CountOfMoney"
+  "defaultProject": "CountOfMoney",
+  "cli": {
+    "analytics": "8a2355f4-ddcb-418e-8f4c-3d9c0a4b44c0"
+  }
 }
